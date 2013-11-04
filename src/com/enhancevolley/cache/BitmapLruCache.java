@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.enhancevolley;
+package com.enhancevolley.cache;
 
 import android.graphics.Bitmap;
 import android.support.v4.util.LruCache;

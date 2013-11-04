@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.enhancevolley;
+package com.enhancevolley.https;
 
 import java.io.InputStream;
 import java.security.GeneralSecurityException;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.enhancevolley;
+package com.enhancevolley.gson;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonSyntaxException;
