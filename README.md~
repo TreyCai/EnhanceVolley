@@ -9,7 +9,6 @@ An enhance version of the [Volley](https://developers.google.com/events/io/sessi
 2. Added default BitmapLruCache implementation. (by [ogrebgr](https://github.com/ogrebgr))
 3. Support for Https request.(by [ogrebgr](https://github.com/ogrebgr))
 4. Support for custom URL parameters.
-5. Added default Response.ErrorListener implementation.
 
 ---
 
